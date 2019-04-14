@@ -1,0 +1,105 @@
+
+span{
+    color: green;
+    font-size: 25px;
+    margin-right: 90px;
+    margin-left: 40px;
+}
+
+ .logoImage{
+    margin: 20px;
+    margin-right: 200px;
+
+}
+button{
+    width: 100px;
+    margin-left: 90px;   
+    margin-right: 100px;
+    background-color:#3CB371;
+    border-style: none;
+    height: 26px;
+}
+button p{
+    color: white;
+    font-weight: bold;
+    padding-top: 4px;
+}
+label p{
+    font-size: 20px;
+    color: #3CB371;
+    font-weight: bolder;
+}
+input{
+    background-color:#ddeedd;
+    width: 200px;
+    border-style: groove;
+    margin-left: 200px;
+}
+.menu{
+    background-color: #FAFAD2;
+    overflow: hidden;
+    margin-top: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.menu a{
+    font-size: 30px;
+    margin-left: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    font-weight: bolder;
+    
+
+}
+.menu a.leftmenue{
+margin-left: 300px;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+ul li{
+
+display: inline;
+}
+li{
+    list-style: none;
+}
+ul{
+    float: left;
+}
+.product{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+    width: 250px;
+    margin-top: 60px;
+}
+
+.productStyle{
+    margin-left: 35px;
+    align-items: center;
+    display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+body{
+    margin: 0;
+}
+footer{
+    display: block;
+    text-align: center;
+   
+}
+.signInForm{
+
+    padding-top: 60px;
+    padding-left: 160px;
+}
+
+
+p{
+    margin-left: 300px;
+}
+
